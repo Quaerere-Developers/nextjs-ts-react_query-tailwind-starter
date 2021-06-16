@@ -1,5 +1,5 @@
 {
-  "name": "with-typescript",
+  "name": "umimori_frontend",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -8,9 +8,15 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@material-tailwind/react": "0.3.4",
+    "axios": "^0.21.1",
     "next": "latest",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-query": "^3.17.1",
+    "recoil": "^0.3.1",
+    "sass": "^1.35.1",
+    "tailwindcss": "^2.1.4"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
