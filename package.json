@@ -1,5 +1,5 @@
 {
-  "name": "umimori_frontend",
+  "name": "project_name",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
